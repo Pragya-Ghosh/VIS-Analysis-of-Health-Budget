@@ -27,32 +27,32 @@ The program was written in PyCharm. You can access the [Program](Program) file h
 ![Pie Chart](https://github.com/user-attachments/assets/dc981d46-fdeb-4461-9e60-dcae2e802ce8)
 
 ## Methodology
-A grouped bar chart is plotted to compare the "before" and "after" mortality rates for the telemedicine program for each diagnosis group-- namely [AMI (Acute Myocardial Infarction)](https://en.wikipedia.org/wiki/Myocardial_infarction), [Septic Shock](https://en.wikipedia.org/wiki/Septic_shock), [Ischemic Stroke](https://en.wikipedia.org/wiki/Stroke#Classification) and [Hemorrhagic Stroke](https://en.wikipedia.org/wiki/Stroke#Classification).
+A pie chart is plotted to compare the proportions of funds assigned to the Major Heads of the Ministry of Health and Family Welfare.
 
-A legend is added to distinguish between the two sets of bars, and data labels are placed above each bar to display the exact mortality rates.
+Exploding slices are used to highlight smaller budget allocations, and percentage labels are placed on each slice to represent the raw data.
 
 ## Observation
-There is a notable change in mortality rates across all diagnoses:
-  - AMI: 47.2% reduction
-  - Septic Shock: 43.0% reduction
-  - Ischemic Stroke: 57.5% reduction
-  - Hemorrhagic Stroke: 57.7% reduction
+- The largest share of the budget goes to the National Health Mission (30.3%), followed by Autonomous Bodies (18.0%).
+- The least funded sectors are COVID-19 (0.5%), Family Welfare Schemes (0.5%) and Infrastructure Development for Health Research (0.2%).
 
 ## Inference
-- There is a significant reduction in mortality rates across all diagnoses when telemedicine is implemented.
-- The most substantial reductions are observed in ischemic stroke and septic shock.
+- The significant allocation to the National Health Mission indicates a strong focus on broad health services and initiatives across the country.
+- Also, the substantial portion for Autonomous Bodies suggests a focus on independent institutions that oversee various health-related activities.
+- The relatively lower allocation to COVID-19 may indicate a shift in focus post-pandemic or confidence in existing measures.
+- The low funding for Family Welfare Schemes suggests a deprioritization of this area.
+- Minimal funding for Infrastructure Development for Health Research points to either a lack of immediate prioritization or reliance on other funding sources.
 
 ## Conclusion
-The chart demonstrates the positive impact of telemedicine on reducing mortality rates for several critical diagnoses. This could be one small step for IT, but one giant leap for Healthcare.
+The pie chart shows us that there is a clear shift towards reinforcing established health programs and expanding operational independence in healthcare.
 
 ### Implications for Health Care Professionals
-Healthcare professionals should advocate for and integrate telemedicine services into routine care, especially for managing critical conditions.
+Healthcare professionals can expect enhanced support and resources in areas covered by the National Health Mission, leading to more comprehensive service delivery.
 
-- **Policy and Implementation:**
-  Health policies should encourage the adoption of telemedicine services, particularly in areas where access to immediate medical care is limited.
+- **Adaptation to Reduced Funding:**
+  Professionals involved in COVID-19 management, family welfare, and health research may need to adapt to reduced immediate funding, seek alternative support, or focus on optimizing existing resources.
     
-- **Future Research:**
-  Further studies could explore the specific factors within telemedicine that contribute to these improved outcomes, aiming to optimize telemedicine practices.
-
+- **Advocacy for Health Research Prioritisation:**
+  There should be a push for greater investment in health research to drive innovation and address emerging health challenges effectively.
+  
 ## Author
 Pragya Ghosh
