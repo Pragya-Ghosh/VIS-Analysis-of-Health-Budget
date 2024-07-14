@@ -24,7 +24,7 @@ The program was written in PyCharm. You can access the [Program](Program) file h
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eho1R537Vc36IOzRefcoL054mqZyGF11)
 
 ## Program Output
-![Bar Chart](https://github.com/user-attachments/assets/340d3af3-ae70-4da6-82df-36e68765195c)
+![Pie Chart](https://github.com/user-attachments/assets/dc981d46-fdeb-4461-9e60-dcae2e802ce8)
 
 ## Methodology
 A grouped bar chart is plotted to compare the "before" and "after" mortality rates for the telemedicine program for each diagnosis group-- namely [AMI (Acute Myocardial Infarction)](https://en.wikipedia.org/wiki/Myocardial_infarction), [Septic Shock](https://en.wikipedia.org/wiki/Septic_shock), [Ischemic Stroke](https://en.wikipedia.org/wiki/Stroke#Classification) and [Hemorrhagic Stroke](https://en.wikipedia.org/wiki/Stroke#Classification).
