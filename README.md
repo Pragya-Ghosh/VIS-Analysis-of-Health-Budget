@@ -37,7 +37,7 @@ Exploding slices are used to highlight smaller budget allocations, and percentag
 
 ## Inference
 - The significant allocation to the National Health Mission indicates a strong focus on broad health services and initiatives across the country.
-- Also, the substantial portion for Autonomous Bodies suggests a focus on independent institutions that oversee various health-related activities.
+- Additionally, the substantial portion for Autonomous Bodies suggests a focus on independent institutions that oversee various health-related activities.
 - The relatively lower allocation to COVID-19 may indicate a shift in focus post-pandemic or confidence in existing measures.
 - The low funding for Family Welfare Schemes suggests a deprioritization of this area.
 - Minimal funding for Infrastructure Development for Health Research points to either a lack of immediate prioritization or reliance on other funding sources.
